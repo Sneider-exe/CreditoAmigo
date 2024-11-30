@@ -1,0 +1,300 @@
+.bg-oliva{
+    background-color: #23b605;
+}
+.text-oliva{
+    color: #F2E3D5;
+
+}
+.body{
+    background-color: #ffffff;
+}
+
+.letra-kanit-300{
+    font-family: 'Kanit', sans-serif;
+    font-weight: 300;
+}
+.letra-kanit-700{
+    font-family: 'Kanit', sans-serif;
+    font-weight: 700;
+
+}
+.navbar{
+    margin-bottom: 10px;
+
+}
+.navbar-nav .nav-link.active, .nav-link{
+    color: #ffffff;
+    font-family: 'Kanit', sans-serif;
+    font-weight: 300;
+}
+.navbar-logo{
+    width: 40px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 5px;
+
+}
+.link-ingresar{
+    color:#000000;
+}
+.nav-link:hover{
+    color: #000000;
+}
+.link-ingresar:hover{
+    color:#ffffff;
+}
+.navbar-brand{
+    font-family: 'Kanit', sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    padding-left: 2px;
+    color:#000000
+}
+
+.navbar-collapse{
+    align-items: left;
+    justify-content: space-between;
+}
+
+.ingresar{
+    color: #F2E3D5;
+}
+
+.hero{
+    background-color: white;    
+    text-align: center;
+}
+
+.hero-principal{
+    align-items: center;
+}
+
+.hero-imagen-ds{
+    width: 200px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.letra-titulo-principal{
+    margin: -5px;
+}
+
+.seccion-oscura {
+    color: white;
+    background-color: #000000;
+}
+
+
+.login h2{
+    font-size: 40px;;
+}
+.login{
+    padding-top: 0px;
+    padding-bottom: 10px;
+}
+.btn-oliva{
+    background-color: #F2E3D5;
+    color: #000000;
+}
+.btn-olivita{
+    background-color: #23b605;
+    color: #000000;
+}
+.btn:hover{
+    background-color:#F2E3D5;
+    color: #000000;
+}
+.c-ingresos{
+    border-radius: 8px;;
+    max-width: 500px;
+    min-height: 200px;
+    padding:20px;
+}
+
+
+.servicios{
+    padding: 40px 40px 60px 40px;
+}
+
+.servicios .columna{
+    padding: 20px;
+    border: 2px solid #8080804d;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    transition: all 0.3s ease-in;
+}
+
+.servicios .columna:hover{
+    color: white;
+    background-color: #23b605;
+}
+
+.servicios i{
+    font-size: 2.5rem;
+    color: white;
+    background-color: #000000;
+    padding: 8px 19px;
+    border-radius: 50%;
+}
+
+
+.servicios-titulo{
+    font-family: 'Kanit', sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    margin: 10px 0;
+}
+
+.badges-contenedor{
+    font-size: 25px;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.badges{
+    margin: 5px
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.seccion-oscura-2 {
+    height: 570px;
+    padding: 10px;
+    color: white;   
+    background-color: #000000;
+}
+
+.seccion-oscura-2 .contenedor-sc{
+    max-width: 600px;
+    text-align: center;
+}
+
+.reserva .container{
+    max-width: 1100px;
+    min-height: 250px;
+    padding: 20px;
+}
+.seccion-titulo{
+    color: #F2E3D5;
+    font-size: 30px;
+    padding: 15px 0px;
+}
+.reserva-div{
+    margin-bottom: -155px;
+}
+
+.rectangulo{
+    margin-bottom: -2px;
+    background-color: #000000;
+    border-radius: 10px;
+}
+
+.reserva .row {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+  
+.reserva .descripcion {
+    color: white;
+    font-size: 1.2rem;
+}
+  
+.reserva button {
+    color: #F2E3D5;
+    font-weight: bold;
+    background-color: transparent;
+    border: 2px solid #F2E3D5;
+    padding: 1.25em 2em;
+    margin: 10px;
+    border-radius: 100px;
+    transition: all 0.2s ease-in-out;
+}
+
+/*Footer*/
+footer{
+    min-height: 300px;
+    padding-top:50px;
+}
+.footer-texto{
+    font-size: 1rem;
+    padding-top:0px;
+    margin-top: -10px;
+    padding-bottom: 10px;
+
+    margin-bottom: 10px;
+    color:#000000;
+    font-family: 'Kanit', sans-serif;
+    font-weight: 300;
+
+}
+.footer-texto-logo{
+    font-size: 25px;
+    margin-top:20px;
+    margin-bottom: 5px;
+    color:#000000;
+}
+
+.truck-2{
+    width: 100px;
+    padding-top: 15px;
+    padding-bottom: 0px;
+    font-size: 80px;
+    margin-top: 110px;
+    margin-bottom: -30px;
+}
+.footer-logo{
+    width: 80px;
+    height: 80px;
+    margin-top:15px;
+    margin-bottom:-3px;
+}
+.iconos-redes-sociales a{
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    padding: 2px;
+    border: 2px solid #ffffff;
+    border-radius: 50%;
+    transition: all 0.1 ease-in;
+}
+.iconos-redes-sociales i{
+    color:white;
+    font-size: 1.5rem;
+    transition: all 0.1 ease-in;
+
+}
+.iconos-redes-sociales a:hover{
+    background-color: white;
+    border: 2px solid #000000;
+}
+
+.iconos-redes-sociales a:hover i{
+    color: #000000;
+}
+.derechos-de-autor{
+    color: #aeaeae;
+    font-size: 15px;
+    padding: 20px;
+}
+/* FIN DEL FOOTER*/
+  
+/*Responsive*/
+
+@media screen and (max-width: 768px) {
+    .navbar-brand{
+        display: none;
+    }
+}
